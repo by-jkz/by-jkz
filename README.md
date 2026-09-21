@@ -24,6 +24,6 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=by-jkz&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Statistiques GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=by-jkz&show_icons=true&theme=dark&hide_border=true" alt="Statistiques GitHub" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=by-jkz&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" width="48%" />
 </p>
