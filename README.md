@@ -18,11 +18,11 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🌐 **Network technician** by trade, currently training to become a **Network & Systems Engineer**
-- 🏠 I design, run and document my own **homelab**: UniFi networking, VLAN segmentation, DNS & ad-blocking, firewall policies, Proxmox virtualization, Home Assistant and a structured-cabling rack
-- 🚗 Passionate about **automotive development**: VCDS coding on VAG / MQB platforms, performance tuning, hidden features and ECU mapping
-- ⚙️ I automate whatever I can with **Python**, **Bash** and **AutoIt**
-- 🎮 On the side: low-latency **CS2 / FACEIT** configurations
+- 🌐 Network technician → future **Network & Systems Engineer**
+- 🏠 **Homelab** enthusiast: UniFi · Proxmox · Home Assistant
+- 🚗 **Automotive**: VAG coding · tuning · ECU mapping
+- ⚙️ **Automation** with Python, Bash & AutoIt
+- 🤝 Open to opportunities in **networking & systems**
 
 ---
 
@@ -66,22 +66,12 @@
 
 ---
 
-### 🎯 Currently
-
-- 📚 Training toward a **Network & Systems Engineer** role
-- 🔧 Migrating my home network to its v2 architecture (UCG-Fiber, Pro Max 16 PoE)
-- 🚗 Developing new custom codings for the Cupra
-- 🤝 Open to opportunities and collaboration in **networking & systems**
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byjerkz&theme=github_dark" width="98%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=byjerkz&theme=github_dark" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=byjerkz&theme=github_dark" height="160" />
 </p>
 
