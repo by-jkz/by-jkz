@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=620&lines=Network+Technician+%F0%9F%8C%90;Aspiring+Network+%26+Systems+Engineer+%F0%9F%9A%80;VAG+Coding+%C2%B7+Tuning+%C2%B7+ECU+Mapping+%F0%9F%9A%97;Homelab+%C2%B7+Proxmox+%C2%B7+Home+Assistant+%F0%9F%8F%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=620&lines=Network+Technician;Aspiring+Network+%26+Systems+Engineer;VAG+Coding+%C2%B7+Tuning+%C2%B7+ECU+Mapping;Homelab+%C2%B7+Proxmox+%C2%B7+Home+Assistant" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -75,10 +75,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byjerkz&theme=github_dark" width="98%" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=byjerkz&theme=github_dark" height="160" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer" width="100%" />
 </p>
