@@ -1,33 +1,34 @@
-<!-- Bannière -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=180&section=header&text=JerK'z&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=R%C3%A9seau%20%C2%B7%20Syst%C3%A8mes%20%C2%B7%20Auto%20%C2%B7%20Scripts&descAlignY=60&descSize=16" alt="JerK'z" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=180&section=header&text=JerK'z&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Networking%20%C2%B7%20Systems%20%C2%B7%20Automotive%20%C2%B7%20Automation&descAlignY=60&descSize=16" alt="JerK'z" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Informaticien+r%C3%A9seau+%F0%9F%8C%90;En+route+vers+Ing%C3%A9nieur+R%C3%A9seaux+%26+Syst%C3%A8mes;Codage+VAG+%C2%B7+Pr%C3%A9pa+%C2%B7+Cartographie+%F0%9F%9A%97;Homelab+%C2%B7+Proxmox+%C2%B7+Home+Assistant+%F0%9F%8F%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=620&lines=Network+Technician+%F0%9F%8C%90;Aspiring+Network+%26+Systems+Engineer+%F0%9F%9A%80;VAG+Coding+%C2%B7+Tuning+%C2%B7+ECU+Mapping+%F0%9F%9A%97;Homelab+%C2%B7+Proxmox+%C2%B7+Home+Assistant+%F0%9F%8F%A0" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://jk-zerv.net"><img src="https://img.shields.io/badge/jk--zerv.net-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00b4d8" /></a>
   <a href="https://www.instagram.com/by.jkz/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
   <img src="https://img.shields.io/badge/Paris,%20France-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00b4d8" />
+  <img src="https://img.shields.io/badge/FR%20%C2%B7%20EN-0d1117?style=for-the-badge&logo=googletranslate&logoColor=00b4d8" />
 </p>
 
 ---
 
-### 👨🏻‍💻 À propos
+### 👨🏻‍💻 About Me
 
-- 🌐 **Informaticien réseau** de formation, en montée en compétences pour devenir **Ingénieur Réseaux & Systèmes**
-- 🏠 Je conçois et documente mon **homelab** : Ubiquiti (UniFi), VLAN, DNS/adblock, pare-feu, Proxmox, Home Assistant, baie de brassage
-- 🚗 Passionné de **développement véhicule** : codages VCDS sur plateforme VAG/MQB, préparation, options cachées, cartographie
-- ⚙️ J'automatise tout ce que je peux : scripts **AutoIt**, **Shell**, **Python**
-- 🎮 Et à côté : configs **CS2 / FACEIT** optimisées low-latency
+- 🌐 **Network technician** by trade, currently training to become a **Network & Systems Engineer**
+- 🏠 I design, run and document my own **homelab**: UniFi networking, VLAN segmentation, DNS & ad-blocking, firewall policies, Proxmox virtualization, Home Assistant and a structured-cabling rack
+- 🚗 Passionate about **automotive development**: VCDS coding on VAG / MQB platforms, performance tuning, hidden features and ECU mapping
+- ⚙️ I automate whatever I can with **Python**, **Bash** and **AutoIt**
+- 🎮 On the side: low-latency **CS2 / FACEIT** configurations
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Tech Stack
 
-**Réseau & Infra**
+**🌐 Networking & Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
@@ -37,7 +38,7 @@
   <img src="https://img.shields.io/badge/VLAN_·_DNS_·_Firewall-0d1117?style=flat-square&logo=cloudflare&logoColor=00b4d8" />
 </p>
 
-**Scripting & Outils**
+**⚙️ Scripting & Tooling**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
@@ -46,34 +47,35 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
-**Automobile**
+**🚗 Automotive**
 <p>
   <img src="https://img.shields.io/badge/VCDS-0d1117?style=flat-square&logo=volkswagen&logoColor=white" />
-  <img src="https://img.shields.io/badge/OBD2-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/OBD--II-0d1117?style=flat-square" />
   <img src="https://img.shields.io/badge/VAG_MQB_·_EA888-0d1117?style=flat-square&logo=seat&logoColor=white" />
 </p>
 
 ---
 
-### 📌 Projets
+### 📌 Featured Projects
 
-| Projet | Description |
+| Project | Description |
 |---|---|
-| 🚗 **[VCDS-Leon5F](https://github.com/byjerkz/VCDS-Leon5F)** | Codages VCDS sur mesure pour Seat Leon Cupra 5F (MQB, EA888 300ch) : scripts VCDScripter documentés, workflow sécurisé, backlog de ~150 options |
-| 🏠 **Homelab** | Infra maison documentée : plan d'adressage, VLAN, firewall inter-VLAN, Proxmox, Home Assistant, ADR *(version publique à venir)* |
-| 🎮 **[CS2-Config](https://github.com/byjerkz/CS2-Config)** | Config CS2 compétitive / FACEIT low-latency, auditée depuis les fichiers Steam réels |
+| 🚗 **[VCDS-Leon5F](https://github.com/byjerkz/VCDS-Leon5F)** | Custom VCDS coding toolkit for the Seat Leon Cupra 5F (MQB, EA888 300 hp): documented VCDScripter scripts, a safe development workflow and a backlog of ~150 options. *🇫🇷 Docs in French* |
+| 🏠 **Homelab** | Fully documented home infrastructure: IP addressing plan, VLANs, inter-VLAN firewall matrix, Proxmox, Home Assistant and architecture decision records (ADRs). *Public version coming soon* |
+| 🎮 **[CS2-Config](https://github.com/byjerkz/CS2-Config)** | Competitive CS2 / FACEIT low-latency config, audited from real Steam files and fully reproducible |
 
 ---
 
-### 🎯 En ce moment
+### 🎯 Currently
 
-- 📚 Formation **Ingénieur Réseaux & Systèmes**
-- 🔧 Migration de mon réseau maison vers l'architecture v2 (UCG-Fiber, Pro Max 16 PoE)
-- 🚗 Nouveaux codages sur la Cupra
+- 📚 Training toward a **Network & Systems Engineer** role
+- 🔧 Migrating my home network to its v2 architecture (UCG-Fiber, Pro Max 16 PoE)
+- 🚗 Developing new custom codings for the Cupra
+- 🤝 Open to opportunities and collaboration in **networking & systems**
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byjerkz&theme=github_dark" width="98%" />
