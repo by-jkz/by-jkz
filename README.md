@@ -11,7 +11,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🌐 Network technician → future **Network & Systems Engineer**
+- 🌐 **Network technician** by trade, moving into systems engineering
 - 🏠 **Homelab** enthusiast: UniFi · Proxmox · Home Assistant
 - 🚗 **Automotive**: VAG coding · tuning · ECU mapping
 - ⚙️ **Scripting & automation**: Python · C++ · AHK · AutoIt
@@ -55,19 +55,22 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🚗 **[VCDS-Leon5F](https://github.com/byjerkz/VCDS-Leon5F)** | Custom VCDS coding toolkit for the Seat Leon Cupra 5F (MQB, EA888 300 hp): documented VCDScripter scripts, a safe development workflow and a backlog of ~150 options. *🇫🇷 Docs in French* |
-| 🏠 **Homelab** | Fully documented home infrastructure: IP addressing plan, VLANs, inter-VLAN firewall matrix, Proxmox, Home Assistant and architecture decision records (ADRs). *Public version coming soon* |
-| 🎮 **[CS2-Config](https://github.com/byjerkz/CS2-Config)** | Competitive CS2 / FACEIT low-latency config, audited from real Steam files and fully reproducible |
+| | Project | What it is |
+|:-:|---|---|
+| 🚗 | **VCDS-Leon5F** 🔒 | Unlocking hidden features and custom settings on my Seat Leon Cupra, with every change scripted and documented |
+| 🏠 | **Homelab** 🔒 | My home network and smart-home setup, designed and documented like a real company infrastructure |
+| 🎮 | **[CS2-Config](https://github.com/byjerkz/CS2-Config)** | A ready-to-use Counter-Strike 2 config tuned for competitive play and minimal input lag |
+
+<sub>🔒 Private repositories. Curious about one of them? Feel free to reach out.</sub>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byjerkz&theme=github_dark" width="98%" />
+  <img src="./assets/stats.svg" alt="GitHub stats" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer" width="100%" />
 </p>
