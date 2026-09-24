@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/network.svg" alt="Homelab topology" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://jk-zerv.net"><img src="https://img.shields.io/badge/jk--zerv.net-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00b4d8" /></a>
   <a href="https://www.instagram.com/by.jkz/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
   <img src="https://img.shields.io/badge/Paris,%20France-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00b4d8" />

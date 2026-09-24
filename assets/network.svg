@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" font-family="JetBrains Mono, Consolas, Menlo, monospace">
+<defs>
+<filter id="g" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>
+.t{fill:#00b4d8;font-size:9.5px;font-weight:700;letter-spacing:1.4px}
+.s{fill:#c9d1d9;font-size:11px}
+.l{fill:#8b949e;font-size:9px}
+.c{fill:#8b949e;font-size:11px}
+.cur{animation:bl 1s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+.led{animation:led 2.4s ease-in-out infinite}
+@keyframes led{0%,100%{opacity:.35}50%{opacity:1}}
+</style>
+</defs>
+<rect width="900" height="140" rx="10" fill="#0d1117"/>
+<text x="18" y="28" class="c"><tspan fill="#00b4d8">~/homelab</tspan> $ topology --live<tspan class="cur" fill="#00b4d8"> ▌</tspan></text>
+<g transform="translate(822,18)"><circle cx="6" cy="6" r="4" fill="#3fb950" class="led"/><text x="16" y="10" class="c">online</text></g>
+<line x1="68.0" y1="85.0" x2="832.0" y2="85.0" stroke="#00b4d8" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path id="p" d="M68.0,85.0 H832.0" fill="none"/>
+<path id="r" d="M832.0,85.0 H68.0" fill="none"/>
+<circle r="3.5" fill="#00b4d8" filter="url(#g)"><animateMotion dur="4.5s" begin="0.0s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle>
+<circle r="3.5" fill="#00b4d8" filter="url(#g)"><animateMotion dur="4.5s" begin="0.7s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle>
+<circle r="3.5" fill="#00b4d8" filter="url(#g)"><animateMotion dur="4.5s" begin="1.6s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle>
+<circle r="3.5" fill="#00b4d8" filter="url(#g)"><animateMotion dur="4.5s" begin="2.4s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle>
+<circle r="3.5" fill="#00b4d8" filter="url(#g)"><animateMotion dur="4.5s" begin="3.5s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle>
+<circle r="2.5" fill="#e6edf3" opacity=".7" filter="url(#g)"><animateMotion dur="6s" begin="0.4s" repeatCount="indefinite"><mpath href="#r"/></animateMotion></circle>
+<circle r="2.5" fill="#e6edf3" opacity=".7" filter="url(#g)"><animateMotion dur="6s" begin="2.4s" repeatCount="indefinite"><mpath href="#r"/></animateMotion></circle>
+<circle r="2.5" fill="#e6edf3" opacity=".7" filter="url(#g)"><animateMotion dur="6s" begin="4.4s" repeatCount="indefinite"><mpath href="#r"/></animateMotion></circle>
+<text x="144.4" y="76.0" text-anchor="middle" class="l">WAN</text>
+<text x="297.2" y="76.0" text-anchor="middle" class="l">trunk</text>
+<text x="450.0" y="76.0" text-anchor="middle" class="l">VLAN 20</text>
+<text x="602.8" y="76.0" text-anchor="middle" class="l">VLAN 30</text>
+<text x="755.6" y="76.0" text-anchor="middle" class="l">CAN</text>
+<rect x="16.0" y="56" width="104" height="58" rx="8" fill="#161b22" stroke="#00b4d8" stroke-opacity=".45"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="4.5s" begin="0.0s" repeatCount="indefinite"/></rect>
+<circle cx="110.0" cy="66" r="2.8" fill="#3fb950" class="led" style="animation-delay:0.0s"/>
+<text x="68.0" y="80" text-anchor="middle" class="t">INTERNET</text>
+<text x="68.0" y="98" text-anchor="middle" class="s">Fiber WAN</text>
+<rect x="168.8" y="56" width="104" height="58" rx="8" fill="#161b22" stroke="#00b4d8" stroke-opacity=".45"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="4.5s" begin="0.9s" repeatCount="indefinite"/></rect>
+<circle cx="262.8" cy="66" r="2.8" fill="#3fb950" class="led" style="animation-delay:0.4s"/>
+<text x="220.8" y="80" text-anchor="middle" class="t">GATEWAY</text>
+<text x="220.8" y="98" text-anchor="middle" class="s">UCG-Fiber</text>
+<rect x="321.6" y="56" width="104" height="58" rx="8" fill="#161b22" stroke="#00b4d8" stroke-opacity=".45"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="4.5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<circle cx="415.6" cy="66" r="2.8" fill="#3fb950" class="led" style="animation-delay:0.8s"/>
+<text x="373.6" y="80" text-anchor="middle" class="t">SWITCH</text>
+<text x="373.6" y="98" text-anchor="middle" class="s">Pro Max 16 PoE</text>
+<rect x="474.4" y="56" width="104" height="58" rx="8" fill="#161b22" stroke="#00b4d8" stroke-opacity=".45"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="4.5s" begin="2.7s" repeatCount="indefinite"/></rect>
+<circle cx="568.4" cy="66" r="2.8" fill="#3fb950" class="led" style="animation-delay:1.2s"/>
+<text x="526.4" y="80" text-anchor="middle" class="t">HYPERVISOR</text>
+<text x="526.4" y="98" text-anchor="middle" class="s">Proxmox VE</text>
+<rect x="627.2" y="56" width="104" height="58" rx="8" fill="#161b22" stroke="#00b4d8" stroke-opacity=".45"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="4.5s" begin="3.6s" repeatCount="indefinite"/></rect>
+<circle cx="721.2" cy="66" r="2.8" fill="#3fb950" class="led" style="animation-delay:1.6s"/>
+<text x="679.2" y="80" text-anchor="middle" class="t">AUTOMATION</text>
+<text x="679.2" y="98" text-anchor="middle" class="s">Home Assistant</text>
+<rect x="780.0" y="56" width="104" height="58" rx="8" fill="#161b22" stroke="#00b4d8" stroke-opacity=".45"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="4.5s" begin="4.5s" repeatCount="indefinite"/></rect>
+<circle cx="874.0" cy="66" r="2.8" fill="#3fb950" class="led" style="animation-delay:2.0s"/>
+<text x="832.0" y="80" text-anchor="middle" class="t">VEHICLE</text>
+<text x="832.0" y="98" text-anchor="middle" class="s">ECU · OBD-II</text>
+</svg>
