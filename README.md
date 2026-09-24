@@ -1,21 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=180&section=header&text=JerK'z&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Networking%20%C2%B7%20Systems%20%C2%B7%20Automotive%20%C2%B7%20Automation&descAlignY=60&descSize=16" alt="JerK'z" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=620&lines=Network+Technician;Aspiring+Network+%26+Systems+Engineer;VAG+Coding+%C2%B7+Tuning+%C2%B7+ECU+Mapping;Homelab+%C2%B7+Proxmox+%C2%B7+Home+Assistant" alt="Typing SVG" />
+  <img src="./assets/banner.svg" alt="JerK'z" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/projects.svg" alt="What I am working on" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://jk-zerv.net"><img src="https://img.shields.io/badge/jk--zerv.net-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00b4d8" /></a>
-  <a href="https://www.instagram.com/by.jkz/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-  <img src="https://img.shields.io/badge/Paris,%20France-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00b4d8" />
-  <img src="https://img.shields.io/badge/FR%20%C2%B7%20EN-0d1117?style=for-the-badge&logo=googletranslate&logoColor=00b4d8" />
 </p>
 
 ---
