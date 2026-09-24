@@ -23,7 +23,7 @@ jobs:
       - name: Generate stats.svg
         run: python scripts/stats.py
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
       - name: Commit if changed
         run: |
