@@ -57,9 +57,9 @@
 
 | | Project | What it is |
 |:-:|---|---|
-| 🚗 | **VCDS-Leon5F** 🔒 | Unlocking hidden features and custom settings on my Seat Leon Cupra, with every change scripted and documented |
-| 🏠 | **Homelab** 🔒 | My home network and smart-home setup, designed and documented like a real company infrastructure |
-| 🎮 | **[CS2-Config](https://github.com/byjerkz/CS2-Config)** | A ready-to-use Counter-Strike 2 config tuned for competitive play and minimal input lag |
+| 🚗 | **VCDS-Leon5F**&nbsp;🔒 | Custom coding toolkit for my Seat Leon Cupra 300 hp: unlocking hidden features, tweaking comfort and lighting settings, with every change scripted, tested and documented step by step. |
+| 🏠 | **Homelab**&nbsp;🔒 | My home network and smart-home setup, designed like a real company infrastructure: segmented network, virtualization, local home automation and full documentation to rebuild it anytime. |
+| 🎮 | **[CS2-Config](https://github.com/byjerkz/CS2-Config)** | A ready-to-use Counter-Strike 2 config for competitive and FACEIT play: tuned for minimal input lag, clean visuals and consistent aim, audited from real game files and fully reproducible. |
 
 <sub>🔒 Private repositories. Curious about one of them? Feel free to reach out.</sub>
 
