@@ -21,7 +21,7 @@
 - 🌐 Network technician → future **Network & Systems Engineer**
 - 🏠 **Homelab** enthusiast: UniFi · Proxmox · Home Assistant
 - 🚗 **Automotive**: VAG coding · tuning · ECU mapping
-- ⚙️ **Automation** with Python, Bash & AutoIt
+- ⚙️ **Scripting & automation**: Python · C++ · AHK · AutoIt
 - 🤝 Open to opportunities in **networking & systems**
 
 ---
@@ -38,20 +38,24 @@
   <img src="https://img.shields.io/badge/VLAN_·_DNS_·_Firewall-0d1117?style=flat-square&logo=cloudflare&logoColor=00b4d8" />
 </p>
 
-**⚙️ Scripting & Tooling**
+**⚙️ Programming & Scripting**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=autohotkey&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoIt-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
 **🚗 Automotive**
 <p>
   <img src="https://img.shields.io/badge/VCDS-0d1117?style=flat-square&logo=volkswagen&logoColor=white" />
-  <img src="https://img.shields.io/badge/OBD--II-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔌_OBD--II-0d1117?style=flat-square" />
   <img src="https://img.shields.io/badge/VAG_MQB_·_EA888-0d1117?style=flat-square&logo=seat&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧠_ECU-Simos18-00b4d8?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🧠_ECU-MED17-00b4d8?style=flat-square&labelColor=0d1117" />
 </p>
 
 ---
