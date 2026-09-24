@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/network.svg" alt="Homelab topology" width="100%" />
+  <img src="./assets/projects.svg" alt="What I am working on" width="100%" />
 </p>
 
 <p align="center">
