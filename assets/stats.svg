@@ -14,7 +14,7 @@
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur=".5s" fill="freeze"/>
 <rect x="16.0" y="44" width="208.0" height="78" rx="9" fill="#161b22" stroke="#00b4d8" stroke-opacity=".3"/>
 <text x="30.0" y="66" class="l">CONTRIBUTIONS</text>
-<text x="30.0" y="102" class="n">23</text>
+<text x="30.0" y="102" class="n">54</text>
 <text x="76.0" y="102" class="u">last 12 months</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur=".5s" fill="freeze"/>
 <rect x="236.0" y="44" width="208.0" height="78" rx="9" fill="#161b22" stroke="#00b4d8" stroke-opacity=".3"/>
@@ -24,12 +24,12 @@
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur=".5s" fill="freeze"/>
 <rect x="456.0" y="44" width="208.0" height="78" rx="9" fill="#161b22" stroke="#00b4d8" stroke-opacity=".3"/>
 <text x="470.0" y="66" class="l">LONGEST STREAK</text>
-<text x="470.0" y="102" class="n">2</text>
+<text x="470.0" y="102" class="n">3</text>
 <text x="497.0" y="102" class="u">days</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur=".5s" fill="freeze"/>
 <rect x="676.0" y="44" width="208.0" height="78" rx="9" fill="#161b22" stroke="#00b4d8" stroke-opacity=".3"/>
 <text x="690.0" y="66" class="l">ACTIVE DAYS</text>
-<text x="690.0" y="102" class="n">3</text>
+<text x="690.0" y="102" class="n">4</text>
 <text x="717.0" y="102" class="u">last 12 months</text></g>
 <text x="18" y="144" class="l">LAST 30 DAYS</text>
 <line x1="16" y1="222" x2="884" y2="222" stroke="#30363d"/>
@@ -58,12 +58,12 @@
 <rect x="655.5" width="22.9" rx="2" fill="#21262d" y="222" height="0"><title>2026-09-17: 0</title><animate attributeName="height" from="0" to="2.0" begin="1.26s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="220.0" begin="1.26s" dur=".6s" fill="freeze"/></rect>
 <rect x="684.5" width="22.9" rx="2" fill="#21262d" y="222" height="0"><title>2026-09-18: 0</title><animate attributeName="height" from="0" to="2.0" begin="1.29s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="220.0" begin="1.29s" dur=".6s" fill="freeze"/></rect>
 <rect x="713.4" width="22.9" rx="2" fill="#21262d" y="222" height="0"><title>2026-09-19: 0</title><animate attributeName="height" from="0" to="2.0" begin="1.32s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="220.0" begin="1.32s" dur=".6s" fill="freeze"/></rect>
-<rect x="742.3" width="22.9" rx="2" fill="#21262d" y="222" height="0"><title>2026-09-20: 0</title><animate attributeName="height" from="0" to="2.0" begin="1.35s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="220.0" begin="1.35s" dur=".6s" fill="freeze"/></rect>
-<rect x="771.3" width="22.9" rx="2" fill="url(#bar)" y="222" height="0"><title>2026-09-21: 5</title><animate attributeName="height" from="0" to="31.0" begin="1.38s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="191.0" begin="1.38s" dur=".6s" fill="freeze"/></rect>
-<rect x="800.2" width="22.9" rx="2" fill="url(#bar)" y="222" height="0"><title>2026-09-22: 8</title><animate attributeName="height" from="0" to="49.6" begin="1.41s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="172.4" begin="1.41s" dur=".6s" fill="freeze"/></rect>
+<rect x="742.3" width="22.9" rx="2" fill="url(#bar)" y="222" height="0"><title>2026-09-20: 2</title><animate attributeName="height" from="0" to="4.0" begin="1.35s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="218.0" begin="1.35s" dur=".6s" fill="freeze"/></rect>
+<rect x="771.3" width="22.9" rx="2" fill="url(#bar)" y="222" height="0"><title>2026-09-21: 9</title><animate attributeName="height" from="0" to="18.0" begin="1.38s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="204.0" begin="1.38s" dur=".6s" fill="freeze"/></rect>
+<rect x="800.2" width="22.9" rx="2" fill="url(#bar)" y="222" height="0"><title>2026-09-22: 31</title><animate attributeName="height" from="0" to="62.0" begin="1.41s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="160.0" begin="1.41s" dur=".6s" fill="freeze"/></rect>
+<text x="811.7" y="154.0" text-anchor="middle" class="u" opacity="0">31<animate attributeName="opacity" from="0" to="1" begin="1.6s" dur=".4s" fill="freeze"/></text>
 <rect x="829.1" width="22.9" rx="2" fill="#21262d" y="222" height="0"><title>2026-09-23: 0</title><animate attributeName="height" from="0" to="2.0" begin="1.44s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="220.0" begin="1.44s" dur=".6s" fill="freeze"/></rect>
-<rect x="858.1" width="22.9" rx="2" fill="url(#bar)" y="222" height="0"><title>2026-09-24: 10</title><animate attributeName="height" from="0" to="62.0" begin="1.47s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="160.0" begin="1.47s" dur=".6s" fill="freeze"/></rect>
-<text x="869.5" y="154.0" text-anchor="middle" class="u" opacity="0">10<animate attributeName="opacity" from="0" to="1" begin="1.6s" dur=".4s" fill="freeze"/></text>
+<rect x="858.1" width="22.9" rx="2" fill="url(#bar)" y="222" height="0"><title>2026-09-24: 12</title><animate attributeName="height" from="0" to="24.0" begin="1.47s" dur=".6s" fill="freeze"/><animate attributeName="y" from="222" to="198.0" begin="1.47s" dur=".6s" fill="freeze"/></rect>
 <text x="16" y="238" class="u">Aug 26</text>
 <text x="884" y="238" text-anchor="end" class="u">today</text>
 </svg>
