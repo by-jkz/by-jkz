@@ -59,9 +59,9 @@
 
 | Projet | Description |
 |---|---|
-| 🚗 **[VCDS-Leon5F](https://github.com/by-jkz/VCDS-Leon5F)** | Codages VCDS sur mesure pour Seat Leon Cupra 5F (MQB, EA888 300ch) : scripts VCDScripter documentés, workflow sécurisé, backlog de ~150 options |
+| 🚗 **[VCDS-Leon5F](https://github.com/byjerkz/VCDS-Leon5F)** | Codages VCDS sur mesure pour Seat Leon Cupra 5F (MQB, EA888 300ch) : scripts VCDScripter documentés, workflow sécurisé, backlog de ~150 options |
 | 🏠 **Homelab** | Infra maison documentée : plan d'adressage, VLAN, firewall inter-VLAN, Proxmox, Home Assistant, ADR *(version publique à venir)* |
-| 🎮 **[CS2-Config](https://github.com/by-jkz/CS2-Config)** | Config CS2 compétitive / FACEIT low-latency, auditée depuis les fichiers Steam réels |
+| 🎮 **[CS2-Config](https://github.com/byjerkz/CS2-Config)** | Config CS2 compétitive / FACEIT low-latency, auditée depuis les fichiers Steam réels |
 
 ---
 
@@ -76,11 +76,11 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=by-jkz&theme=github_dark" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byjerkz&theme=github_dark" width="98%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=by-jkz&theme=github_dark" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=by-jkz&theme=github_dark" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=byjerkz&theme=github_dark" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=byjerkz&theme=github_dark" height="160" />
 </p>
 
 <p align="center">
